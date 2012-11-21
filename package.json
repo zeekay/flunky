@@ -1,7 +1,7 @@
 {
   "name": "puppet",
   "version": "0.0.1",
-  "description": "Do with your machines what you will.",
+  "description": "Makes your machines dance",
   "keywords": [
     "automation",
     "ssh"

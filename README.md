@@ -1,3 +1,3 @@
-# Mastermind
+# puppet
 
-Unleash your inner supervillain.
+Makes your machines dance.
