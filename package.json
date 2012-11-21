@@ -1,0 +1,31 @@
+{
+  "name": "puppet",
+  "version": "0.0.1",
+  "description": "Do with your machines what you will.",
+  "keywords": [
+    "automation",
+    "ssh"
+  ],
+  "main": "lib/",
+  "scripts": {
+    "test": "cake test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeekay/puppet"
+  },
+  "author": "Zach Kelling <zeekayy@gmail.com> (http://whatit.is)",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "shh": "~0.3.0",
+    "async": "~0.1.22"
+  },
+  "devDependencies": {
+    "chai": "~1.3.0",
+    "mocha": "~1.7.0",
+    "sinon": "~1.5.0",
+    "coffee-script": "~1.4.0",
+    "executive": "~0.1.3"
+  }
+}
