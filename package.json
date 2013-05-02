@@ -1,7 +1,7 @@
 {
-  "name": "puppet",
+  "name": "flunky",
   "version": "0.0.1",
-  "description": "Makes your machines dance",
+  "description": "Where would Kingpin be without his flunkies?",
   "keywords": [
     "automation",
     "ssh"
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeekay/puppet"
+    "url": "https://github.com/zeekay/flunky"
   },
   "author": "Zach Kelling <zeekayy@gmail.com> (http://whatit.is)",
   "license": "BSD",
   "readmeFilename": "README.md",
   "dependencies": {
-    "shh": "~0.3.0",
+    "shh": "~0.3.2",
     "async": "~0.1.22"
   },
   "devDependencies": {
