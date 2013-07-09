@@ -1,7 +1,7 @@
 {
   "name": "flunky",
   "version": "0.0.1",
-  "description": "Where would Kingpin be without his flunkies?",
+  "description": "A mastermind never leaves home without one.",
   "keywords": [
     "automation",
     "ssh"
