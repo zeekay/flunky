@@ -1,3 +1,2 @@
-# puppet
-
-Makes your machines dance.
+# flunky
+Where would a mastermind be without his flunkies?
